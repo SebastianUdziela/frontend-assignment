@@ -11,7 +11,7 @@
     - Redux
     - ANTD 
     - Emotion
-    - Esling
+    - Eslint
     - Prettier
     - React Testing Library
     
